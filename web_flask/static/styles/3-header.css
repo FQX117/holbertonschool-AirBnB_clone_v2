@@ -18,6 +18,6 @@ header {
 }
 
 div.logo {
-	content: url("/static/images/logo.png");
+	content: url("/web_flask/static/images/logo.png");
 	padding-left: 20px;
 }
